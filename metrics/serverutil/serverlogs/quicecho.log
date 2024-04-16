@@ -1,0 +1,917 @@
+top - 14:50:53 up 9 days, 23:04,  1 user,  load average: 0.46, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.6 us,  7.9 sy,  0.0 ni, 89.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.8 free,    563.4 used,   3113.0 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2999.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.26 nginx
+
+top - 14:50:53 up 9 days, 23:04,  1 user,  load average: 0.46, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.0 us,  1.9 sy,  0.0 ni, 97.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.8 free,    563.4 used,   3113.0 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2999.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.26 nginx
+
+top - 14:50:54 up 9 days, 23:04,  1 user,  load average: 0.46, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  1.9 sy,  0.0 ni, 98.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.8 free,    563.4 used,   3113.0 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2999.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.26 nginx
+
+top - 14:50:54 up 9 days, 23:04,  1 user,  load average: 0.46, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.8 free,    563.4 used,   3113.0 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2999.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.26 nginx
+
+top - 14:50:55 up 9 days, 23:04,  1 user,  load average: 0.46, 0.40, 0.43
+Tasks: 206 total,   2 running, 204 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.7 us,  3.8 sy,  0.0 ni, 90.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.8 free,    563.4 used,   3113.0 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2999.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:50:55 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us,  0.9 sy,  0.0 ni, 96.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.8 free,    563.4 used,   3113.0 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2999.1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:50:56 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 206 total,   2 running, 204 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.2 us,  7.5 sy,  0.9 ni, 71.0 id,  9.3 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.0 free,    564.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2998.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:50:56 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.8 us,  6.8 sy, 11.7 ni, 74.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.0 free,    564.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2998.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.41 nginx
+
+top - 14:50:57 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.0 free,    564.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2998.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.41 nginx
+
+top - 14:50:57 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.5 us,  1.9 sy,  0.0 ni, 90.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.0 free,    564.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2998.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:50:58 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  3.7 sy,  0.0 ni, 90.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.0 free,    564.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2998.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:50:58 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  3.7 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    167.0 free,    564.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2998.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:50:59 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    162.1 free,    569.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2993.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.53 nginx
+
+top - 14:51:00 up 9 days, 23:04,  1 user,  load average: 0.42, 0.39, 0.43
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    162.1 free,    569.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2993.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.53 nginx
+
+top - 14:51:00 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.4 us,  1.9 sy,  0.0 ni, 89.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    162.1 free,    569.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2993.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:01 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 210 total,   2 running, 208 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  5.8 sy,  0.0 ni, 92.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    162.1 free,    569.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2993.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.60 nginx
+
+top - 14:51:01 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us,  3.8 sy,  1.9 ni, 75.5 id, 16.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    162.1 free,    569.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2993.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:02 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.7 us,  1.9 sy,  0.0 ni, 93.5 id,  0.9 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.62 nginx
+
+top - 14:51:02 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  3.7 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.62 nginx
+
+top - 14:51:03 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.62 nginx
+
+top - 14:51:03 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  2.8 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:04 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.2 us,  3.7 sy,  0.0 ni, 86.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:04 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us,  1.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.79 nginx
+
+top - 14:51:05 up 9 days, 23:04,  1 user,  load average: 0.39, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.79 nginx
+
+top - 14:51:06 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.79 nginx
+
+top - 14:51:06 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.7 us, 10.3 sy,  1.9 ni, 72.0 id, 11.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.79 nginx
+
+top - 14:51:07 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  1.9 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.79 nginx
+
+top - 14:51:07 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  3.7 sy,  0.0 ni, 88.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    161.4 free,    569.8 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   2992.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:08 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 206 total,   2 running, 204 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.7 us,  2.8 sy,  0.0 ni, 92.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    186.6 free,    544.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3018.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:08 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  1.9 sy,  0.0 ni, 92.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    186.6 free,    544.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3018.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:09 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    186.6 free,    544.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3018.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:09 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.8 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    186.6 free,    544.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3018.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:10 up 9 days, 23:04,  1 user,  load average: 0.44, 0.40, 0.43
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.4 us,  1.9 sy,  0.0 ni, 90.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    186.6 free,    544.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3018.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:10 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    186.6 free,    544.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3018.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:11 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us, 11.1 sy,  0.9 ni, 70.4 id, 12.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    185.9 free,    545.2 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3017.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:12 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us, 10.1 sy, 12.8 ni, 72.5 id,  1.8 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    185.9 free,    545.2 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3017.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:12 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    185.9 free,    545.2 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3017.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:13 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.8 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    185.9 free,    545.2 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3017.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:13 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  1.9 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    185.9 free,    545.2 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3017.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:14 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    181.0 free,    550.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3012.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:14 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    181.0 free,    550.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3012.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:15 up 9 days, 23:04,  1 user,  load average: 0.40, 0.39, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    181.0 free,    550.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3012.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:37.95 nginx
+
+top - 14:51:15 up 9 days, 23:04,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 207 total,   2 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  1.8 sy,  0.0 ni, 89.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    181.0 free,    550.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3012.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:16 up 9 days, 23:04,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 210 total,   2 running, 208 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.9 us,  6.9 sy,  0.0 ni, 86.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    181.0 free,    550.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3012.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:16 up 9 days, 23:04,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.6 us,  2.8 sy,  2.8 ni, 76.4 id, 11.3 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    181.0 free,    550.1 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3012.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:17 up 9 days, 23:05,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.8 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:17 up 9 days, 23:05,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:18 up 9 days, 23:05,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:19 up 9 days, 23:05,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.8 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:19 up 9 days, 23:05,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:20 up 9 days, 23:05,  1 user,  load average: 0.37, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:20 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.8 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:21 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:21 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  7.5 sy,  2.8 ni, 71.7 id, 14.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:22 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  5.6 sy,  0.0 ni, 92.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:22 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  1.9 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.5 free,    551.6 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:23 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  1.9 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:23 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:24 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:25 up 9 days, 23:05,  1 user,  load average: 0.34, 0.38, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  1.9 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:25 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:26 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:26 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.7 us,  7.4 sy,  1.9 ni, 70.4 id, 16.7 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:27 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  8.3 sy, 13.0 ni, 72.2 id,  0.9 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:27 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:28 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.10 nginx
+
+top - 14:51:28 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.2 us,  2.8 sy,  0.0 ni, 88.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    179.0 free,    552.0 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3010.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:29 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.3 us,  1.9 sy,  0.0 ni, 88.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    175.3 free,    555.7 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:29 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.6 us,  3.7 sy,  0.0 ni, 90.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    175.3 free,    555.7 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:30 up 9 days, 23:05,  1 user,  load average: 0.31, 0.37, 0.42
+Tasks: 207 total,   2 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.5 us,  3.8 sy,  0.0 ni, 88.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    175.3 free,    555.7 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:31 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.3 us,  3.7 sy,  0.0 ni, 89.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    175.3 free,    555.7 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:31 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 206 total,   2 running, 204 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  6.7 sy,  1.0 ni, 90.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    175.3 free,    555.7 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.47 nginx
+
+top - 14:51:32 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  4.7 sy,  2.8 ni, 77.6 id, 14.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.47 nginx
+
+top - 14:51:32 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.47 nginx
+
+top - 14:51:33 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  1.9 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.47 nginx
+
+top - 14:51:33 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us,  1.9 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.47 nginx
+
+top - 14:51:34 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.47 nginx
+
+top - 14:51:34 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.5 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.47 nginx
+
+top - 14:51:35 up 9 days, 23:05,  1 user,  load average: 0.29, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.47 nginx
+
+top - 14:51:35 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.4 us,  2.8 sy,  0.0 ni, 88.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:36 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10.2 us,  2.8 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:36 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us, 10.2 sy,  2.8 ni, 71.3 id, 12.0 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.64 nginx
+
+top - 14:51:37 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16.7 us,  3.7 sy,  0.9 ni, 78.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    174.6 free,    556.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3006.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:38 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.7 us,  2.8 sy,  0.0 ni, 92.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:38 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.4 us,  3.7 sy,  0.0 ni, 88.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:39 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  3.7 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:39 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us,  2.8 sy,  0.0 ni, 94.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.89 nginx
+
+top - 14:51:40 up 9 days, 23:05,  1 user,  load average: 0.26, 0.36, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.89 nginx
+
+top - 14:51:40 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:41 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.7 us,  0.9 sy,  0.0 ni, 95.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.90 nginx
+
+top - 14:51:41 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.8 us,  9.4 sy,  0.9 ni, 71.7 id, 14.2 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:42 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6.4 us,  9.1 sy, 10.0 ni, 74.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.91 nginx
+
+top - 14:51:42 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:38.91 nginx
+
+top - 14:51:43 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.1 us,  3.7 sy,  0.0 ni, 84.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:44 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5.5 us,  3.7 sy,  0.0 ni, 90.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.1 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:44 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.2 us,  3.7 sy,  0.0 ni, 85.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:45 up 9 days, 23:05,  1 user,  load average: 0.24, 0.35, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7.5 us,  3.7 sy,  0.0 ni, 88.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:45 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:39.25 nginx
+
+top - 14:51:46 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.7 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:39.25 nginx
+
+top - 14:51:46 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 206 total,   1 running, 205 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  7.6 sy,  0.0 ni, 90.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:39.25 nginx
+
+top - 14:51:47 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  4.6 sy,  1.9 ni, 76.9 id, 14.8 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:39.25 nginx
+
+top - 14:51:47 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.4 us,  1.9 sy,  0.0 ni, 89.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:48 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.9 us,  2.8 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:48 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.3 us,  3.7 sy,  0.0 ni, 88.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+
+top - 14:51:49 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  2.8 sy,  0.0 ni, 96.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:39.41 nginx
+
+top - 14:51:49 up 9 days, 23:05,  1 user,  load average: 0.22, 0.34, 0.41
+Tasks: 207 total,   1 running, 206 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  2.8 us,  1.9 sy,  0.0 ni, 95.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3844.2 total,    173.6 free,    557.4 used,   3113.2 buff/cache
+MiB Swap:   3980.0 total,   3975.9 free,      4.1 used.   3005.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    937 www-data  20   0   26028  20328   4156 S   0.0   0.5  48:39.41 nginx
